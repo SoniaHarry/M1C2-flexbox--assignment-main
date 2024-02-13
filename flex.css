@@ -19,7 +19,7 @@
     flex-direction: column;
 }
 .flexTwo>.square{
-    margin: 5px;
+    margin: 2px;
 }
 
 .flexThree{
@@ -27,7 +27,7 @@
     flex-direction: row-reverse;
 }
 .flexThree>.square{
-    margin: 5px;
+    margin: 2px;
 }
 .flexFour{
     display: flex;
